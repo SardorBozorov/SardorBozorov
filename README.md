@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SardorBozorov
+- 👋 Hi, I’m Sardor
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning .Net
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/sardor-bozorov-8426232a2/
